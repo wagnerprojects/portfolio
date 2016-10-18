@@ -48,6 +48,13 @@
   <h2 title="Últimos Jobs">Trabajos Recientes</h2>
   <ul class="grid cs-style-6">
     <li>
+      <figure> <img src="images/vista_verde.png" alt="Clube Golfe Vista Verde">
+        <figcaption>
+          <h3>Vista Verde</h3>
+          <span>Clube Golfe Vista Verde</span> <a href="http://www.wagneramos.com.br/clients/vista" target="_blank">Visita de  Proyecto</a> </figcaption>
+      </figure>
+    </li>
+    <li>
       <figure> <img src="images/lobrobo.png" alt="Lobrobo">
         <figcaption>
           <h3>Lobrobo</h3>
@@ -132,12 +139,12 @@
       </figure>
     </li>
     <li>
-      <figure> <img src="images/heineken.png" alt="Heineken">
-        <figcaption>
-          <h3>Hot Site Heineken</h3>
-          <span>Promoção Heineken</span> <a>Visita de  Proyecto</a> </figcaption>
-      </figure>
-    </li>
+    <figure> <img src="images/zenfone_zoom.png" alt="Azus Zenfone Zoom">
+      <figcaption>
+        <h3>Zenfone Zoom</h3>
+        <span>Azus Zenfone Zoom</span> <a href="http://www.wagneramos.com.br/clients/zoom" target="_blank">Visit Project</a> </figcaption>
+    </figure>
+  </li>
     <li>
       <figure> <img src="images/dani-derani.jpg" alt="Dani Derani">
         <figcaption>
