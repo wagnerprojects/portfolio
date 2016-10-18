@@ -27,6 +27,7 @@
         <li><a href="../BR/index.php" title="Brasilien Sprache"><img src="images/Flag_Brazil.png" alt="Brasilien Sprache"></a></li>
         <li><a href="../EN/index.php" title="Amerikaner  Sprache"><img src="images/flag_usa.png" alt="Amerikaner  Sprache"></a></li>
         <li><a href="index.php" title="German Sprache"><img src="images/bandeira-alemanha-gr.png" alt="German Sprache" class="flag_german"></a></li>
+         <li><a href="../ES/index.php" title="Spanisch Sprache"><img src="images/bandeira_espanha.png" alt="Spanisch Sprache" class="flag_german"></a></li>
       </ul>
     </div>
     <nav id="nav" role="navigation">

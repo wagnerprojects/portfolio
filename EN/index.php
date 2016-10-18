@@ -27,7 +27,8 @@
         <li><a href="../BR/index.php" title="Language Brazil"><img src="images/Flag_Brazil.png" alt="Language Brazil"></a></li>
         <li><a href="index.php" title="Language USA"><img src="images/flag_usa.png" alt="Language USA"></a></li>
         <li><a href="../DE/index.php" title="Language German"><img src="images/bandeira-alemanha-gr.png" alt="Language German" class="flag_german"></a></li>
-      </ul>
+         <li><a href="../ES/index.php" title="Language Spanish"><img src="images/bandeira_espanha.png" alt="Language Spanish" class="flag_german"></a></li>
+    </ul>
     </div>
     <nav id="nav" role="navigation">
       <ul id="menu">
@@ -81,7 +82,6 @@
       <p>Tableless experience in developing, applying best practices on the market in projects.</p>
     </div>
     <!--end .dialog-->
-
     <div class="dialog_last"> <img src="images/icone1.png" alt="jobs Freelancer">
       <h3 title="Freelancer">Freelancer</h3>
       <p>Extensive experience in Freelancer works in partnership with major agencies in the market and informal customers</p>

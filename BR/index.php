@@ -27,7 +27,8 @@
         <li><a href="index.php" title="Idioma Português (Brasil)"><img src="images/Flag_Brazil.png" alt="Idioma Português (Brasil)"></a></li>
         <li><a href="../EN/index.php" title="Idioma Inglês"><img src="images/flag_usa.png" alt="Idioma Inglês"></a></li>
         <li><a href="../DE/index.php" title="Idioma Alemão"><img src="images/bandeira-alemanha-gr.png" alt="Idioma Alemão" class="flag_german"></a></li>
-      </ul>
+          <li><a href="../ES/index.php" title="Idioma Espanhol"><img src="images/bandeira_espanha.png" alt="Idioma Espanhol" class="flag_german"></a></li>
+    </ul>
     </div>
     <nav id="nav" role="navigation">
       <ul id="menu">
