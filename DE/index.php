@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="DE-de" class="no-touch">
 <head>
 <meta charset="UTF-8" />
@@ -19,6 +19,9 @@
 <meta property="og:description" content="Wagner Ramos Portfolio">
 </head>
 <body data-stellar-background-ratio="0.2">
+<div class="preloader">
+    <div class="status">&nbsp;</div>
+  </div>
 <div class="cbp-af-header" id="header">
   <div class="cbp-af-inner">
     <h1 title="Portfólio Wagner Ramos"><a href="#"><img src="images/logo_wagner_ramos.png" alt="Wagner Ramos Portfólio"></a></h1>
