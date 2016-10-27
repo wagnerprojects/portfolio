@@ -19,7 +19,7 @@
 <meta property="og:description" content="Wagner Ramos Portfolio">
 </head>
 <body data-stellar-background-ratio="0.2">
-<div class="preloader">
+  <div class="preloader">
     <div class="status">&nbsp;</div>
   </div>
 <div class="cbp-af-header" id="header">
