@@ -65,7 +65,7 @@
   <div class="sobre_inner">
     <h2 title="introduction developer">About</h2>
     <p>Be a reference for all who are around me, always seek to do the best, develop, acquire and disceminar my knowledge, trying every day to be better as a person and as a professional.
-      Formed in web design - digital communication, with 10 years of experience in the market. Front end and Information architecture are my inspirations and passions.</p>
+      Formed in web design - digital communication, with 15 years of experience in the market. Front end and Information architecture are my inspirations and passions.</p>
   </div>
   <!--end .sobre_inner-->
 
@@ -96,17 +96,24 @@
   <h2 title="recent jobs">New Jobs</h2>
   <ul class="grid cs-style-6">
     <li>
+      <figure> <img src="images/AsusFnac2017.png" alt="Especial Asus Fnac 2017">
+        <figcaption>
+          <h3>Asus</h3>
+          <span>Especial Asus Fnac 2017</span> <a href="http://www.wagneramos.com.br/clients/fnac2017" target="_blank">Visit Project</a> </figcaption>
+      </figure>
+    </li>
+    <li>
       <figure> <img src="images/vista_verde.png" alt="Clube Golfe Vista Verde">
         <figcaption>
           <h3>Vista Verde</h3>
-          <span>Clube Golfe Vista Verde</span> <a href="http://www.wagneramos.com.br/clients/vista" target="_blank">Besuche Projekt</a> </figcaption>
+          <span>Clube Golfe Vista Verde</span> <a href="http://www.wagneramos.com.br/clients/vista" target="_blank">Visit Project</a> </figcaption>
       </figure>
     </li>
     <li>
       <figure> <img src="images/lobrobo.png" alt="Lobrobo">
         <figcaption>
           <h3>Lobrobo</h3>
-          <span>Restaurante Secreto</span> <a href="http://lobrobo.com.br" target="_blank">Visitar Projeto</a> </figcaption>
+          <span>Restaurante Secreto</span> <a href="http://lobrobo.com.br" target="_blank">Visit Project</a> </figcaption>
       </figure>
     </li>
     <li>
@@ -117,17 +124,24 @@
       </figure>
     </li>
     <li>
-      <figure> <img src="images/cineasta.jpg" alt="Cineasta">
-        <figcaption>
-          <h3>Cineasta</h3>
-          <span>Cineasta Crowdfunding</span> <a href="http://www.cineasta.cc" target="_blank">Visit Project</a> </figcaption>
-      </figure>
-    </li>
-    <li>
       <figure> <img src="images/linka.jpg" alt="linka">
         <figcaption>
           <h3>Linka</h3>
           <span>Linka</span> <a href="http://linka.vc" target="_blank">Visit Project</a> </figcaption>
+      </figure>
+    </li>
+    <li>
+      <figure> <img src="images/magariblu.png" alt="Magariblu">
+        <figcaption>
+          <h3>Magariblu</h3>
+          <span>Magariblu Travel Trips</span> <a href="http://www.magariblu.com" target="_blank">Visit Project</a> </figcaption>
+      </figure>
+    </li>
+    <li>
+      <figure> <img src="images/lukscolor.png" alt="Tintas Lukscolor">
+        <figcaption>
+          <h3>Tintas Lukscolor</h3>
+          <span>Tintas Lukscolor</span> <a href="http://www.lukscolor.com.br" target="_blank">Visit Project</a> </figcaption>
       </figure>
     </li>
     <li>
@@ -279,7 +293,7 @@
     <p class="copy">© Wagner Ramos 2016. All rights reserved.</p>
   </div>
   <!--end .inner_footer-->
-
+<a id="toTop" href="#"><i class="icn-arrow-up" title="Voltar ao Topo">Back to the top</i></a>
 </div>
 <!--end footer-->
 <!--scripts-->

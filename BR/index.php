@@ -65,7 +65,7 @@
   <div class="sobre_inner">
     <h2 title="introdução Desenvovedor">Sobre</h2>
     <p>Ser referência para todos que estão ao meu redor, sempre buscar fazer o melhor,  evoluir, adquirir e disceminar meus conhecimentos, buscando a cada dia ser melhor como pessoa e como profissional.
-      Formado em web design - comunicação digital , com 10 anos de experiência no mercado. Front end e Arquitetura da informação são minhas inspirações e paixões.</p>
+      Formado em web design - comunicação digital , com 15 anos de experiência no mercado. Front end e Arquitetura da informação são minhas inspirações e paixões.</p>
   </div>
   <!--end .sobre_inner-->
 
@@ -97,6 +97,13 @@
   <h2 title="Últimos Jobs">Trabalhos Recentes</h2>
   <ul class="grid cs-style-6">
     <li>
+      <figure> <img src="images/AsusFnac2017.png" alt="Especial Asus Fnac 2017">
+        <figcaption>
+          <h3>Asus</h3>
+          <span>Especial Asus Fnac 2017</span> <a href="http://www.wagneramos.com.br/clients/fnac2017" target="_blank">Visitar Projeto</a> </figcaption>
+      </figure>
+    </li>
+    <li>
       <figure> <img src="images/vista_verde.png" alt="Clube Golfe Vista Verde">
         <figcaption>
           <h3>Vista Verde</h3>
@@ -117,18 +124,25 @@
           <span>incentivo de vendas</span> <a  href="images/lightbox/tim/dnadois.jpg" class="fancybox" data-fancybox-group="gallery"> Fotos Projeto</a> </figcaption>
       </figure>
     </li>
-    <li>
-      <figure> <img src="images/cineasta.jpg" alt="Cineasta">
-        <figcaption>
-          <h3>Cineasta</h3>
-          <span>Cineasta Crowdfunding</span> <a href="http://www.cineasta.cc" target="_blank">Visitar Projeto</a> </figcaption>
-      </figure>
-    </li>
-    <li>
+        <li>
       <figure> <img src="images/linka.jpg" alt="linka">
         <figcaption>
           <h3>Linka</h3>
           <span>Linka</span> <a href="http://linka.vc" target="_blank">Visitar Projeto</a> </figcaption>
+      </figure>
+    </li>
+    <li>
+      <figure> <img src="images/magariblu.png" alt="Magariblu">
+        <figcaption>
+          <h3>Magariblu</h3>
+          <span>Magariblu Travel Trips</span> <a href="http://www.magariblu.com" target="_blank">Visitar Projeto</a> </figcaption>
+      </figure>
+    </li>
+    <li>
+      <figure> <img src="images/lukscolor.png" alt="Tintas Lukscolor">
+        <figcaption>
+          <h3>Tintas Lukscolor</h3>
+          <span>Tintas Lukscolor</span> <a href="http://www.lukscolor.com.br" target="_blank">Visitar Projeto</a> </figcaption>
       </figure>
     </li>
     <li>
@@ -283,6 +297,8 @@
 
 </div>
 <!--end footer-->
+
+<a id="toTop" href="#"><i class="icn-arrow-up" title="Voltar ao Topo">Voltar ao Topo</i></a>
 <!--scripts-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -1,3 +1,4 @@
+<a id="toTop" href="#"><i class="icn-arrow-up" title="Voltar ao Topo">Back to the top</i></a>
 <div id="footer">
   <div class="inner_footer">
     <div class="logo_footer"> <img src="images/logo_wagner_ramos.png" alt="Wagner Ramos"/> </div>
