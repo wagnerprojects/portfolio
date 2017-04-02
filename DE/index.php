@@ -53,7 +53,7 @@
     <li><img src="images/banners/asus.jpg" alt="Asus" /></li>
     <li><img src="images/banners/TIM.jpg" alt="Tim" /></li>
     <li><img src="images/banners/bmw.jpg" alt="BMW"/></li>
-    <li><img src="images/banners/garciaEngenharia.jpg" alt="Garcia Engenharia Soluções" /></li>
+    <li><img src="images/banners/GarciaEngenharia.jpg" alt="Garcia Engenharia Soluções" /></li>
     <li><img src="images/banners/jobs_umbro.jpg" alt="Umbro"/></li>
     <li><img src="images/banners/topbrands.jpg" alt="Top Brands"/></li>
     <li><img src="images/banners/ebs.jpg" alt="EBS Solutions"/></li>

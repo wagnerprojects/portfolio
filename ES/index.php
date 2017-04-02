@@ -49,7 +49,7 @@
   <h2 title="Últimos Jobs">Trabajos Recientes</h2>
   <ul class="grid cs-style-6">
     <li>
-      <figure> <img src="images/garciaEngenharia.png" alt="Garcia Engenharia Soluções">
+      <figure> <img src="images/GarciaEngenharia.png" alt="Garcia Engenharia Soluções">
         <figcaption>
           <h3>Garcia Engenharia Soluções</h3>
           <span>Garcia Engenharia Soluções</span> <a href="http://garciaengenhariasolucoes.com.br" target="_blank">Visita de  Proyecto</a> </figcaption>
