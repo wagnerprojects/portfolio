@@ -5,6 +5,7 @@
     <li><img src="images/banners/asus.jpg" alt="Asus" /></li>
     <li><img src="images/banners/TIM.jpg" alt="Tim" /></li>
     <li><img src="images/banners/bmw.jpg" alt="BMW"/></li>
+    <li><img src="images/banners/garciaEngenharia.jpg" alt="Garcia Engenharia Soluções" /></li>
     <li><img src="images/banners/jobs_umbro.jpg" alt="Umbro"/></li>
     <li><img src="images/banners/topbrands.jpg" alt="Top Brands"/></li>
     <li><img src="images/banners/ebs.jpg" alt="EBS Solutions"/></li>
@@ -47,6 +48,13 @@
 <div class="recents_projects photo" data-stellar-background-ratio="0.5" id="jobs">
   <h2 title="Últimos Jobs">Trabajos Recientes</h2>
   <ul class="grid cs-style-6">
+    <li>
+      <figure> <img src="images/garciaEngenharia.png" alt="Garcia Engenharia Soluções">
+        <figcaption>
+          <h3>Garcia Engenharia Soluções</h3>
+          <span>Garcia Engenharia Soluções</span> <a href="http://garciaengenhariasolucoes.com.br" target="_blank">Visita de  Proyecto</a> </figcaption>
+      </figure>
+    </li>
     <li>
       <figure> <img src="images/AsusFnac2017.png" alt="Especial Asus Fnac 2017">
         <figcaption>
