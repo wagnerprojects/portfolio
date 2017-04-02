@@ -53,7 +53,7 @@
     <li><img src="images/banners/asus.jpg" alt="Asus" /></li>
     <li><img src="images/banners/TIM.jpg" alt="Tim" /></li>
     <li><img src="images/banners/bmw.jpg" alt="BMW"/></li>
-    <li><img src="images/banners/garciaEngenharia.jpg" alt="Garcia Engenharia Soluções" /></li>
+    <li><img src="images/banners/GarciaEngenharia.jpg" alt="Garcia Engenharia Soluções" /></li>
     <li><img src="images/banners/jobs_umbro.jpg" alt="Umbro"/></li>
     <li><img src="images/banners/topbrands.jpg" alt="Top Brands"/></li>
     <li><img src="images/banners/ebs.jpg" alt="EBS Solutions"/></li>
@@ -98,7 +98,7 @@
   <h2 title="Últimos Jobs">Trabalhos Recentes</h2>
   <ul class="grid cs-style-6">
     <li>
-      <figure> <img src="images/GarciaEngenharia.png" alt="Garcia Engenharia Soluções">
+      <figure> <img src="images/garciaEngenharia.png" alt="Garcia Engenharia Soluções">
         <figcaption>
           <h3>Garcia Engenharia Soluções</h3>
           <span>Garcia Engenharia Soluções</span> <a href="http://garciaengenhariasolucoes.com.br" target="_blank">Visitar Projeto</a> </figcaption>
