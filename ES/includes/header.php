@@ -24,6 +24,15 @@
   </div>
 <div class="cbp-af-header" id="header">
   <div class="cbp-af-inner">
+    <div id="sem">
+        <a class="tel_header" href="callto:+55 11 976785776">Telefone: +55 11 9 7678 5776</a>
+        <p>Email:<strong> qa302655@gmail.com</strong></p>
+        <ul>
+          <li><a href="https://br.linkedin.com/in/wagner-ramos-53a3116" target="_blank"><img src="imagesFinal/linkedin_circle_color-512.png" alt="Linkedin" title="Acessar Perfil Linkedin" /></a></li>
+          <li><a href="imagesFinal/Jose_Wagner_Silva_Ramos_atual.pdf" target="_blank"><img src="imagesFinal/pdf.png" alt="Download Curriclum" title="Download Curriculum" /></a></li>
+          <li><a href="callto:jose.wagner.silva.ramos"><img src="imagesFinal/icon_skype.png" alt="Skype" title="Skype" /></a></li>
+        </ul>
+      </div><!--end .SEM-->
     <h1 title="Portfólio Wagner Ramos"><a href="#"><img src="images/logo_wagner_ramos.png" alt="Portfólio Wagner Ramos"></a></h1>
     <div class="languages">
       <ul>

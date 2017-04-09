@@ -30,12 +30,18 @@ pkg: grunt.file.readJSON('package.json'),
 
 //imagemin
       imagemin: {
+      static: {                          // Target
+      options: {                       // Target options
+        optimizationLevel: 3,
+        svgoPlugins: [{ removeViewBox: false }],
+        }
+      },
           dynamic: {
               files: [{
                   expand: true,
-                  cwd: 'images_m/',
+                  cwd: 'images/',
                   src: ['**/*.{png,jpg,gif}'],
-                  dest: 'images/'
+                  dest: 'imagesFinal/'
               }]
           }
       },
