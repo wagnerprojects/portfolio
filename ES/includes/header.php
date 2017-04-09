@@ -33,13 +33,13 @@
           <li><a href="callto:jose.wagner.silva.ramos"><img src="imagesFinal/icon_skype.png" alt="Skype" title="Skype" /></a></li>
         </ul>
       </div><!--end .SEM-->
-    <h1 title="Portfólio Wagner Ramos"><a href="#"><img src="images/logo_wagner_ramos.png" alt="Portfólio Wagner Ramos"></a></h1>
+    <h1 title="Portfólio Wagner Ramos"><a href="#"><img src="imagesFinal/logo_wagner_ramos.png" alt="Portfólio Wagner Ramos"></a></h1>
     <div class="languages">
       <ul>
-        <li><a href="../BR/index.php" title="Idioma Português (Brasil)"><img src="images/Flag_Brazil.png" alt="Idioma Português (Brasil)"></a></li>
-        <li><a href="../EN/index.php" title="Idioma Inglês"><img src="images/flag_usa.png" alt="Idioma Inglês"></a></li>
-        <li><a href="../DE/index.php" title="Idioma Alemão"><img src="images/bandeira-alemanha-gr.png" alt="Idioma Alemão" class="flag_german"></a></li>
-       <li><a href="../ES/index.php" title="Idioma Espanhol"><img src="images/bandeira_espanha.png" alt="Idioma Espanhol" class="flag_german"></a></li>
+        <li><a href="../BR/index.php" title="Idioma Português (Brasil)"><img src="imagesFinal/Flag_Brazil.png" alt="Idioma Português (Brasil)"></a></li>
+        <li><a href="../EN/index.php" title="Idioma Inglês"><img src="imagesFinal/flag_usa.png" alt="Idioma Inglês"></a></li>
+        <li><a href="../DE/index.php" title="Idioma Alemão"><img src="imagesFinal/bandeira-alemanha-gr.png" alt="Idioma Alemão" class="flag_german"></a></li>
+       <li><a href="../ES/index.php" title="Idioma Espanhol"><img src="imagesFinal/bandeira_espanha.png" alt="Idioma Espanhol" class="flag_german"></a></li>
       </ul>
     </div>
     <nav id="nav" role="navigation">
