@@ -57,7 +57,6 @@ pkg: grunt.file.readJSON('package.json'),
         },
       },
 
-
 // Project configuration.
 
   uglify: {

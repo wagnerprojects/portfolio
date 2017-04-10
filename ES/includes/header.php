@@ -10,13 +10,28 @@
 <meta name="keywords" content="Front-end, diseño web, diseñador web, CSS, jQuery, desarrollo, sitio" />
 <meta name="author" content="Wagner Ramos" />
 <link rel="shortcut icon" href="favicon.ico">
+<noscript id="deferred-styles">
 <link rel="stylesheet" type="text/css" href="css/main.min.css" />
-<meta property="og:url" content="http://www.wagneramos.com.br/BR"/>
+</noscript>
+<meta property="og:url" content="http://www.wagneramos.com.br/ES"/>
 <meta property="og:image" content="http://www.wagneramos.com.br/BR/images/logo_wagner_ramos.png" />
 <meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="271" />
 <meta property="og:image:height" content="72" />
 <meta property="og:description" content="Portfólio Wagner Ramos" />
+<script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
 </head>
 <body data-stellar-background-ratio="0.2">
 <div class="preloader">
