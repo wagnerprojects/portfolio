@@ -1,6 +1,13 @@
 <div class="recents_projects photo" data-stellar-background-ratio="0.5" id="jobs">
   <h2 title="letztes Werk">Neue Arbeiten</h2>
   <ul class="grid cs-style-6">
+  <li>
+          <figure> <img src="imagesFinal/jobs/zenfone4.png" alt="Asus - zenfone 4">
+            <figcaption>
+              <h3>Asus - Zenfone 4</h3>
+              <span>Zenfone 4</span> <a href="http://www.wagneramos.com.br/clients/zen4" target="_blank">Besuche Projekt</a> </figcaption>
+          </figure>
+        </li>
     <li>
       <figure> <img src="imagesFinal/jobs/garciaEngenharia.jpg" alt="Garcia Engenharia Soluções">
         <figcaption>
@@ -110,17 +117,10 @@
       <figure> <img src="imagesFinal/jobs/conte.jpg" alt="Conte">
         <figcaption>
           <h3>Conte</h3>
-          <span>Site da Empresa Conte</span> <a href="http://www.http://www.conte.com.br/" target="_blank">Besuche Projekt</a> </figcaption>
+          <span>Site da Empresa Conte</span> <a href="http://www.conte.com.br/" target="_blank">Besuche Projekt</a> </figcaption>
       </figure>
     </li>
       <li>
-      <figure> <img src="imagesFinal/jobs/zenfone_zoom.png" alt="Azus Zenfone Zoom">
-        <figcaption>
-          <h3>Zenfone Zoom</h3>
-          <span>Azus Zenfone Zoom</span> <a href="http://www.wagneramos.com.br/clients/zoom" target="_blank">Visitar Projeto</a> </figcaption>
-      </figure>
-    </li>
-    <li>
       <figure> <img src="imagesFinal/jobs/dani-derani.jpg" alt="Dani Derani">
         <figcaption>
           <h3>Dani Ferani</h3>

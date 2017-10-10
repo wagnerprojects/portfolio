@@ -38,6 +38,7 @@
 <!-- end .cbp-af-header-->
 <div class="flexslider" id="slider" role="banner">
   <ul class="slides">
+  <li><img src="imagesFinal/banners/zenfone4.jpg" alt="Asus - zenfone 4" /></li>
      <li><img src="imagesFinal/banners/lobrobo.jpg" alt="Lobrobo" /></li>
     <li><img src="imagesFinal/banners/asus.jpg" alt="Asus" /></li>
     <li><img src="imagesFinal/banners/TIM.jpg" alt="Tim" /></li>
