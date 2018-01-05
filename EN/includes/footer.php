@@ -11,7 +11,7 @@
       </ul>
     </div>
     <div class="address"> <span class="local">São Paulo, SP, Brasil</span>
-      <p>Phone:<strong> +55 11 76785776</strong></p>
+      <p>Phone:<strong> +55 11 965745723</strong></p>
       <p>Email:<strong> qa302655@gmail.com</strong></p>
       <ul>
         <li><a href="https://br.linkedin.com/in/wagner-ramos-53a3116" target="_blank"><img src="imagesFinal/linkedin_circle_color-512.png" alt="Linkedin" title="Get Profile Linkedin" /></a></li>
@@ -19,7 +19,7 @@
         <li><a href="callto:jose.wagner.silva.ramos"><img src="imagesFinal/icon_skype.png" alt="Skype" title="Skype" /></a></li>
       </ul>
     </div>
-    <p class="copy">© Wagner Ramos 2017. All rights reserved.</p>
+    <p class="copy">© Wagner Ramos 2018. All rights reserved.</p>
   </div>
   <!--end .inner_footer-->
 <a id="toTop" href="#"><i class="icn-arrow-up" title="Voltar ao Topo">Back to the top</i></a>
